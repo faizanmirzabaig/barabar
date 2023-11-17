@@ -1,0 +1,7 @@
+# .env
+vendor
+composer.lock
+
+# application/config/config.php
+data
+application/logs/*
